@@ -85,7 +85,7 @@
                     <ul class="text-sm text-gray-700 space-y-2">
                         <li>
                             <a
-                                href="#"
+                                href="./LumiGems/about.html"
                                 class="hover:text-gray-900 hover:underline"
                                 >CÂU CHUYỆN</a
                             >
@@ -106,7 +106,7 @@
                         </li>
                         <li>
                             <a
-                                href="#"
+                                href="./LumiGems/contact.html"
                                 class="hover:text-gray-900 hover:underline"
                                 >LIÊN HỆ</a
                             >
