@@ -15,7 +15,7 @@
                 <div class="col-span-2 flex items-center justify-center">
                     <!-- Logo -->
                     <div class="flex items-center">
-                        <a href="./LumiGems/index.html">
+                        <a href="./index.html">
                             <img
                                 src="./assets/imgs/logo.png"
                                 alt="Logo"
@@ -71,7 +71,7 @@
                     <ul class="w-full grid grid-cols-6">
                         <li class="flex justify-center items-center">
                             <a
-                                href="./LumiGems/about.html"
+                                href="./about.html"
                                 class="w-full text-black hover:text-orange-500 px-4 py-2 flex justify-center items-center"
                                 >CÂU CHUYỆN</a
                             >
@@ -185,7 +185,7 @@
                         </li>
                         <li class="flex justify-center items-center">
                             <a
-                                href="./LumiGems/contact.html"
+                                href="./contact.html"
                                 class="w-full text-black hover:text-orange-500 px-4 py-2 flex justify-center items-center"
                                 >LIÊN HỆ</a
                             >
